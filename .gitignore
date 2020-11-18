@@ -6,4 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #Uncomment this line
-#/config/.dev.js
+#.env.*
+
+.github
