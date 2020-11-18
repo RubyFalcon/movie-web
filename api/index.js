@@ -1,4 +1,6 @@
 module.exports = [
+
     require("./account"),
-    require("./user"),
-]
+    require("./user")
+
+];

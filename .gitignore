@@ -1,11 +1,11 @@
 /node_modules
 /.idea
+/.github
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
 #Uncomment this line
-#.env.*
-
-.github
+#/config/.env.development
+#/config/.env.production
